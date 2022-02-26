@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "484373933188",
+    "project_id": "onlinedoodh-c462d",
+    "storage_bucket": "onlinedoodh-c462d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484373933188:android:6b921765a2ea22d764a6d1",
+        "android_client_info": {
+          "package_name": "com.aashu.onlinedoodh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484373933188-toleor7b19nd50bt79gsgdsr27i7molo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl7YOK8E-tOAM1k6E7zII96j7hVEuV_mc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484373933188-toleor7b19nd50bt79gsgdsr27i7molo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
